@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @timwong930
 - 👀 I’m interested in learning about coding and any type of software design
-- 🌱 I’m currently learning HTML5, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: timothywong930@gmail.com
 
 <!---
 timwong930/timwong930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
