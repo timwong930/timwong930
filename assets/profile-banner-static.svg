@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 312" role="img" aria-labelledby="title desc">
+  <title id="title">Tim Wong — test the limits of AI, turn complexity into clarity</title>
+  <desc id="desc">A dark gradient profile banner with a prominent Tim Wong / Building badge, an AI and data headline, and connected nodes in a static reduced-motion version.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1224"/>
+      <stop offset=".6" stop-color="#101A33"/>
+      <stop offset="1" stop-color="#0E1025"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55E5C3"/>
+      <stop offset=".5" stop-color="#67B8FF"/>
+      <stop offset="1" stop-color="#B398FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7356DD" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#7356DD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#91A6D7" stroke-opacity=".085" stroke-width="1"/>
+    </pattern>
+    <clipPath id="bannerClip"><rect width="1200" height="312" rx="18"/></clipPath>
+  </defs>
+
+  <!-- All essential information stays visible even where animation is unsupported. -->
+  <g clip-path="url(#bannerClip)">
+    <rect width="1200" height="312" fill="url(#bg)"/>
+    <rect width="1200" height="312" fill="url(#grid)"/>
+    <circle cx="1010" cy="130" r="268" fill="url(#glow)"/>
+
+    <!-- Larger, properly padded identity pill. -->
+    <rect x="48" y="29" width="299" height="48" rx="24" fill="#1D3048" stroke="#58B6B9" stroke-opacity=".74" stroke-width="1.5"/>
+    <circle cx="76" cy="53" r="5.5" fill="#55E5C3"/>
+    <circle cx="76" cy="53" r="8" fill="none" stroke="#55E5C3" stroke-opacity=".65" stroke-width="1.6">
+      
+      
+    </circle>
+    <text x="100" y="59" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2" fill="#E1F3F5">TIM WONG / BUILDING</text>
+
+    <!-- Clear, stationary headline and supporting text. -->
+    <text x="48" y="143" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" fill="#F6F8FF">Test the limits of AI.</text>
+    <text x="48" y="201" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" fill="url(#accent)">Turn complexity into clarity.</text>
+    <text x="50" y="248" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#BCCBE3">Curious by default. Building solutions and automations that matter.</text>
+
+    <!-- A restrained moving highlight across an always-visible accent rule. -->
+    <rect x="49" y="278" width="530" height="3" rx="1.5" fill="url(#accent)" opacity=".86"/>
+    <rect x="49" y="278" width="72" height="3" rx="1.5" fill="#D3F9FE" opacity=".42">
+      
+      
+    </rect>
+
+    <!-- Connected data / agent network. -->
+    <g fill="none" stroke-width="2">
+      <path d="M858 91L990 61L1095 138L997 240L850 208Z" stroke="#7892CE" stroke-opacity=".42"/>
+      <path d="M858 91L997 240M990 61L850 208M1095 138L858 91M1095 138L850 208" stroke="#7892CE" stroke-opacity=".22"/>
+      <circle cx="974" cy="151" r="61" stroke="#74CBDA" stroke-opacity=".4"/>
+      <circle cx="974" cy="151" r="40" stroke="#74CBDA" stroke-opacity=".2"/>
+    </g>
+
+    <!-- Slow orbital movement behind the nodes. -->
+    <circle cx="974" cy="151" r="61" fill="none" stroke="#55E5C3" stroke-opacity=".38" stroke-width="2" stroke-dasharray="14 38">
+      
+    </circle>
+    <circle cx="974" cy="151" r="61" fill="none" stroke="#67B8FF" stroke-opacity=".13" stroke-width="1.5">
+      
+      
+    </circle>
+
+    <!-- Readable static nodes; only accent overlays animate. -->
+    <g fill="#101C35" stroke-width="3">
+      <circle cx="858" cy="91" r="10" stroke="#55E5C3"/>
+      <circle cx="990" cy="61" r="9" stroke="#67B8FF"/>
+      <circle cx="1095" cy="138" r="12" stroke="#B398FF"/>
+      <circle cx="997" cy="240" r="11" stroke="#67B8FF"/>
+      <circle cx="850" cy="208" r="9" stroke="#55E5C3"/>
+      <circle cx="974" cy="151" r="13" stroke="#E8EDFF"/>
+    </g>
+    <circle cx="858" cy="91" r="4" fill="#55E5C3">
+      
+    </circle>
+    <circle cx="1095" cy="138" r="5" fill="#B398FF">
+      
+    </circle>
+    <circle cx="974" cy="151" r="5" fill="#E8EDFF">
+      
+    </circle>
+
+    <!-- A small signal traveling around the network, without JavaScript. -->
+    
+  </g>
+</svg>
