@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Tim Wong — testing the limits of AI, turning complexity into clarity" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-static.svg" />
+    <img src="./assets/profile-banner.svg" alt="Tim Wong — testing the limits of AI, turning complexity into clarity" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
