@@ -1,0 +1,30 @@
+{
+  "name": "Tim Wong GitHub Profile",
+  "surface": "github-profile-readme",
+  "mode": "experience",
+  "palette": {
+    "canvas": "#F3F0E8",
+    "secondarySurface": "#E9E6DC",
+    "ink": "#242922",
+    "body": "#4D594F",
+    "olive": "#56684D",
+    "rust": "#95543D",
+    "rule": "#B4B8AC",
+    "insetRule": "#D8D5C9",
+    "paperWhite": "#F7F4EC",
+    "footer": "#2F382F"
+  },
+  "typography": {
+    "display": "Georgia, Times New Roman, serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "radii": {
+    "panel": "5px"
+  },
+  "motion": {
+    "implementation": "Native SVG SMIL",
+    "meaning": "progress and iteration",
+    "reducedMotion": "static image variants"
+  },
+  "mobileBreakpoint": "640px"
+}
