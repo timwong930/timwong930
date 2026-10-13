@@ -20,7 +20,12 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 ### How I think
 
-`Spot the problem` → `Understand the data` → `Build a solution` → `Automate the boring parts` → `Test & improve`
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-process-static.svg" />
+    <img src="./assets/profile-process.svg" alt="My workflow: notice a problem, understand the data, build a solution, automate repetitive work, and refine it" width="100%" />
+  </picture>
+</p>
 
 - **Push AI beyond the demo.** Explore local models, agents, tool use, delegation, and where automation still needs good judgment.
 - **Make information useful.** Build dashboards, calculators, and research tools that make complicated decisions easier.
@@ -31,19 +36,27 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 | Project | The problem I'm tackling |
 | :-- | :-- |
-| **[MetrologyBase](https://github.com/timwong930/metrologybase)** | Making calibration and metrology easier to navigate with practical guides, calculators, and vendor-neutral research. |
+| **[MetrologyBase](https://github.com/timwong930/metrologybase)** | My solution for understanding metrology more deeply and applying what I learn. I turn technical concepts into practical guides, calculators, and equipment comparisons to connect theory with real-world calibration decisions. |
 | **[Budgeting App](https://github.com/timwong930/Budgeting-App)** | Bringing budgeting, portfolio tracking, watchlists, and financial information into one iOS experience. |
-| **RollSort** *(private development)* | Building a privacy-first iOS photo organizer to make reviewing, sorting, and cleaning up large photo libraries simpler, without uploading photos. |
 
 ### What I'm exploring
 
-`Local-first AI` · `Multi-agent workflows` · `Useful automations` · `Data-driven tools` · `Thoughtful product design`
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-focus-static.svg" />
+    <img src="./assets/profile-focus.svg" alt="Exploring local-first AI, multi-agent workflows, and turning data into clarity" width="100%" />
+  </picture>
+</p>
+
+I am especially interested in **local-first AI**, **multi-agent workflows**, **useful automations**, **data-driven tools**, and **thoughtful product design**.
 
 I enjoy experimenting with tools like **Python, Swift/SwiftUI, JavaScript, GitHub, and local LLMs**, choosing what fits the problem instead of chasing a stack for its own sake.
 
 ---
 
 <p align="center">
-  <strong>Build small. Learn fast. Make it useful.</strong><br />
-  <sub>More experiments and projects are always in progress.</sub>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-footer-static.svg" />
+    <img src="./assets/profile-footer.svg" alt="Build small. Learn fast. Make it useful. Always curious, always improving." width="100%" />
+  </picture>
 </p>
