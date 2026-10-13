@@ -56,7 +56,7 @@ Minimal squared or slightly softened edges, fine dividers, and the occasional an
 
 ## Components
 
-Each visual ships in desktop/mobile and light/dark variants. The exploration panel stays entirely static. The header, process, and footer use native SVG SMIL for visible motion, with separately rendered static variants selected via prefers-reduced-motion picture sources. Animated components follow existing rules, dots, or the process sequence, never floating freely across the exploration panel. Maintain GitHub-aligned backgrounds and readable content even when motion cannot play.
+Each visual ships in desktop/mobile and light/dark variants with reduced-motion static alternates. The exploration panel stays entirely still. Motion is editorial line-work: the banner draws three linked annotations, the workflow progressively draws five distinct problem-solving illustrations, and the footer writes a closing rule. Avoid looping floating bars or meaningless dot pulses. Keep the underlying labels visible at every animation frame.
 
 ## Do's and Don'ts
 

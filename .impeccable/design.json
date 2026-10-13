@@ -32,23 +32,18 @@
     "panel": "5px"
   },
   "motion": {
-    "implementation": "Native SVG SMIL animations in external image files",
-    "sectionsAnimated": [
-      "banner",
-      "process",
-      "footer"
-    ],
-    "sectionsStatic": [
-      "focus"
-    ],
-    "staticFallback": "Separate -static.svg variants via prefers-reduced-motion picture sources",
-    "noUnanchoredFocusMotion": true
+    "implementation": "SVG SMIL stroke-dashoffset path drawing",
+    "hero": "Sequentially draws question, experiment and solution annotations",
+    "workflow": "Five sequential path illustrations representing notice, understand, build, automate and refine",
+    "footer": "Underlining rule draws across motto",
+    "focus": "Always static",
+    "reducedMotion": "Separate static SVG variants"
   },
   "mobileBreakpoint": "640px",
   "theme": {
     "selection": "README picture prefers-color-scheme sources",
     "lightBackground": "#ffffff",
     "darkBackground": "#0d1117",
-    "cacheStrategy": "Fresh v5 file paths, animated and static, while keeping v4 focus static"
+    "cacheStrategy": "V6 filenames for new line-drawing animation assets; V4 focus remains static"
   }
 }

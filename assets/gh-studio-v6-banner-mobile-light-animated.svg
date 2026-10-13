@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 434" role="img" aria-labelledby="title desc">
+<title id="title">Tim Wong | Practical experiments</title>
+<desc id="desc">Headline and three drafting lines sequentially illustrating how a question becomes a solution.</desc>
+<rect width="360" height="434" fill="#ffffff"/>
+<text x="23" y="34" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">TIM WONG   /   BUILDING</text>
+<path d="M23 49L337 49" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<text x="23" y="102" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="31" font-weight="700" >Test the limits of AI.</text>
+<text x="23" y="151" fill="#4d6548" font-family="Georgia,'Times New Roman',serif" font-size="31" font-weight="700" >Turn complexity</text>
+<text x="23" y="187" fill="#4d6548" font-family="Georgia,'Times New Roman',serif" font-size="31" font-weight="700" >into clarity.</text>
+<text x="24" y="221" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" >Building solutions from</text>
+<text x="24" y="243" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="400" >questions and real problems.</text>
+<path d="M23 265L337 265" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<text x="24" y="297" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" >01   ASK</text>
+<text x="24" y="345" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" >02   EXPERIMENT</text>
+<text x="24" y="393" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" >03   MAKE IT USEFUL</text><path d="M24 307L335 307" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<path d="M24 307H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 307H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<animate attributeName="stroke-dashoffset" values="312;312;0;0;312" keyTimes="0;.08;.29;.82;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+</path>
+<path d="M24 355L335 355" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<path d="M24 355H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 355H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<animate attributeName="stroke-dashoffset" values="312;312;0;0;312" keyTimes="0;.08;.29;.82;1" dur="16s" begin="2.7s" repeatCount="indefinite"/>
+</path>
+<path d="M24 403L335 403" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<path d="M24 403H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 403H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<animate attributeName="stroke-dashoffset" values="312;312;0;0;312" keyTimes="0;.08;.29;.82;1" dur="16s" begin="5.4s" repeatCount="indefinite"/>
+</path>
+<path d="M24 197H244" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 197H244" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="222" stroke-dashoffset="222" stroke-linecap="round" stroke-linejoin="round" >
+<animate attributeName="stroke-dashoffset" values="222;222;0;0;222" keyTimes="0;.08;.29;.82;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+</path>
+</svg>

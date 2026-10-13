@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 131" role="img" aria-labelledby="title desc">
+<title id="title">Always improving</title>
+<desc id="desc">The profile's motto is paired with a deliberate drafting line that writes itself along the footer.</desc>
+<rect width="1080" height="131" fill="#ffffff"/>
+<rect x="0" y="11" width="1080" height="108" rx="2" fill="#f6f8fa"/>
+<text x="540" y="57" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="700" text-anchor="middle">Build small. Learn fast. Make it useful.</text>
+<text x="540" y="88" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1.35">ALWAYS CURIOUS. ALWAYS IMPROVING.</text>
+<path d="M125 105L955 105" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
+<path d="M125 105H955" fill="none" stroke="#4d6548" stroke-width="3.2" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125 105H955" fill="none" stroke="#4d6548" stroke-width="3.2" stroke-dasharray="833" stroke-dashoffset="833" stroke-linecap="round" stroke-linejoin="round" >
+
+</path>
+
+</svg>
