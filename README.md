@@ -1,6 +1,8 @@
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/profile-banner-mobile-static.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-static.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/profile-banner-mobile.svg" />
     <img src="./assets/profile-banner.svg" alt="Tim Wong: testing the limits of AI, turning complexity into clarity" width="100%" />
   </picture>
 </p>
@@ -23,7 +25,9 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/profile-process-mobile-static.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-process-static.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/profile-process-mobile.svg" />
     <img src="./assets/profile-process.svg" alt="My workflow: notice a problem, understand the data, build a solution, automate repetitive work, and refine it" width="100%" />
   </picture>
 </p>
@@ -44,7 +48,9 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/profile-focus-mobile-static.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-focus-static.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/profile-focus-mobile.svg" />
     <img src="./assets/profile-focus.svg" alt="Exploring local-first AI, multi-agent workflows, and turning data into clarity" width="100%" />
   </picture>
 </p>
@@ -57,7 +63,9 @@ I enjoy experimenting with tools like **Python, Swift/SwiftUI, JavaScript, GitHu
 
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/profile-footer-mobile-static.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-footer-static.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/profile-footer-mobile.svg" />
     <img src="./assets/profile-footer.svg" alt="Build small. Learn fast. Make it useful. Always curious, always improving." width="100%" />
   </picture>
 </p>
