@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 354" role="img" aria-labelledby="title desc"><title id="title">Current explorations</title><desc id="desc">Local AI, better automation, and practical ways to use data.</desc>
+<rect width="360" height="354" rx="4" fill="#F3F0E8"/><rect x="9" y="9" width="342" height="336" fill="none" stroke="#D8D5C9"/><text x="25" y="42" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#95543D">01</text>
+<text x="25" y="76" font-family="Georgia,'Times New Roman',serif" font-size="27" font-weight="700" fill="#242922">Local-first AI</text>
+<text x="26" y="101" font-family="Arial,Helvetica,sans-serif" font-size="14.5" fill="#4D594F">Experimenting closer to home</text>
+<line x1="25" y1="114" x2="333" y2="114" stroke="#B4B8AC" stroke-width="1.3"/><text x="25" y="147" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#95543D">02</text>
+<text x="25" y="181" font-family="Georgia,'Times New Roman',serif" font-size="27" font-weight="700" fill="#242922">Agent workflows</text>
+<text x="26" y="206" font-family="Arial,Helvetica,sans-serif" font-size="14.5" fill="#4D594F">Making repeatable work easier</text>
+<line x1="25" y1="219" x2="333" y2="219" stroke="#B4B8AC" stroke-width="1.3"/><text x="25" y="252" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#95543D">03</text>
+<text x="25" y="286" font-family="Georgia,'Times New Roman',serif" font-size="27" font-weight="700" fill="#242922">Data into clarity</text>
+<text x="26" y="311" font-family="Arial,Helvetica,sans-serif" font-size="14.5" fill="#4D594F">Making information more useful</text>
+<line x1="25" y1="324" x2="333" y2="324" stroke="#B4B8AC" stroke-width="1.3"/><rect x="25" y="114" width="50" height="3" fill="#56684D"><animate attributeName="y" values="114;324;114" dur="17s" repeatCount="indefinite"/></rect></svg>
