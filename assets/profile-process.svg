@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 165" role="img" aria-labelledby="title desc">
+  <title id="title">From problem to solution</title>
+  <desc id="desc">A five step process: notice, understand, build, automate, and refine.</desc>
+  <defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#55E5C3"/><stop offset=".53" stop-color="#67B8FF"/><stop offset="1" stop-color="#B398FF"/></linearGradient>
+  <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1528"/><stop offset="1" stop-color="#141B35"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r="1" fill="#7195CA" opacity=".15"/></pattern>
+</defs>
+<rect width="1080" height="165" rx="16" fill="url(#back)"/>
+<rect width="1080" height="165" rx="16" fill="url(#dots)"/>
+<text x="24" y="27" fill="#8DB4D4" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" letter-spacing="2.1">THE WAY I WORK</text>
+<path d="M190 21 H1042" stroke="#49718D" stroke-width="2" stroke-opacity=".32"/>
+<circle cx="190" cy="21" r="4" fill="#55E5C3">
+<animate attributeName="cx" values="190;1042;190" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".12;1;.12" dur="15s" repeatCount="indefinite"/></circle>
+<g>
+  <rect x="20" y="42" width="194" height="102" rx="15" fill="#16243B" stroke="#385275" stroke-opacity=".74" stroke-width="1.5"/>
+  <rect x="21" y="43" width="192" height="4" rx="2" fill="#55E5C3" opacity=".6"/>
+  <circle cx="55" cy="85" r="15" fill="#102033" stroke="#659DC2" stroke-opacity=".5" stroke-width="1.4"/>
+  <circle cx="55" cy="61" r="15" fill="none" stroke="#67B8FF" stroke-width="1.5" opacity=".32"><animate attributeName="r" values="15;28;15" dur="12s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".36;0;.36" dur="12s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <text x="55" y="89" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#D5F1FE">01</text>
+  <text x="75" y="80" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing=".6" fill="#F2F7FF">NOTICE</text>
+  <text x="75" y="107" font-family="Arial,Helvetica,sans-serif" font-size="12.5" fill="#B3C6E2">Find friction</text>
+  <path d="M216 92 h13 l-4 -4 m4 4 l-4 4" fill="none" stroke="#79BBDD" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+  <rect x="232" y="42" width="194" height="102" rx="15" fill="#16243B" stroke="#385275" stroke-opacity=".74" stroke-width="1.5"/>
+  <rect x="233" y="43" width="192" height="4" rx="2" fill="#67B8FF" opacity=".6"/>
+  <circle cx="267" cy="85" r="15" fill="#102033" stroke="#659DC2" stroke-opacity=".5" stroke-width="1.4"/>
+  <circle cx="267" cy="61" r="15" fill="none" stroke="#67B8FF" stroke-width="1.5" opacity=".32"><animate attributeName="r" values="15;28;15" dur="12s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".36;0;.36" dur="12s" begin="2.4s" repeatCount="indefinite"/></circle>
+  <text x="267" y="89" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#D5F1FE">02</text>
+  <text x="287" y="80" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing=".6" fill="#F2F7FF">UNDERSTAND</text>
+  <text x="287" y="107" font-family="Arial,Helvetica,sans-serif" font-size="12.5" fill="#B3C6E2">Read the data</text>
+  <path d="M428 92 h13 l-4 -4 m4 4 l-4 4" fill="none" stroke="#79BBDD" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+  <rect x="444" y="42" width="194" height="102" rx="15" fill="#16243B" stroke="#385275" stroke-opacity=".74" stroke-width="1.5"/>
+  <rect x="445" y="43" width="192" height="4" rx="2" fill="#67B8FF" opacity=".6"/>
+  <circle cx="479" cy="85" r="15" fill="#102033" stroke="#659DC2" stroke-opacity=".5" stroke-width="1.4"/>
+  <circle cx="479" cy="61" r="15" fill="none" stroke="#67B8FF" stroke-width="1.5" opacity=".32"><animate attributeName="r" values="15;28;15" dur="12s" begin="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".36;0;.36" dur="12s" begin="4.8s" repeatCount="indefinite"/></circle>
+  <text x="479" y="89" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#D5F1FE">03</text>
+  <text x="499" y="80" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing=".6" fill="#F2F7FF">BUILD</text>
+  <text x="499" y="107" font-family="Arial,Helvetica,sans-serif" font-size="12.5" fill="#B3C6E2">Design a fix</text>
+  <path d="M640 92 h13 l-4 -4 m4 4 l-4 4" fill="none" stroke="#79BBDD" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+  <rect x="656" y="42" width="194" height="102" rx="15" fill="#16243B" stroke="#385275" stroke-opacity=".74" stroke-width="1.5"/>
+  <rect x="657" y="43" width="192" height="4" rx="2" fill="#67B8FF" opacity=".6"/>
+  <circle cx="691" cy="85" r="15" fill="#102033" stroke="#659DC2" stroke-opacity=".5" stroke-width="1.4"/>
+  <circle cx="691" cy="61" r="15" fill="none" stroke="#67B8FF" stroke-width="1.5" opacity=".32"><animate attributeName="r" values="15;28;15" dur="12s" begin="7.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".36;0;.36" dur="12s" begin="7.2s" repeatCount="indefinite"/></circle>
+  <text x="691" y="89" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#D5F1FE">04</text>
+  <text x="711" y="80" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing=".6" fill="#F2F7FF">AUTOMATE</text>
+  <text x="711" y="107" font-family="Arial,Helvetica,sans-serif" font-size="12.5" fill="#B3C6E2">Remove repeats</text>
+  <path d="M852 92 h13 l-4 -4 m4 4 l-4 4" fill="none" stroke="#79BBDD" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+  <rect x="868" y="42" width="194" height="102" rx="15" fill="#16243B" stroke="#385275" stroke-opacity=".74" stroke-width="1.5"/>
+  <rect x="869" y="43" width="192" height="4" rx="2" fill="#B398FF" opacity=".6"/>
+  <circle cx="903" cy="85" r="15" fill="#102033" stroke="#659DC2" stroke-opacity=".5" stroke-width="1.4"/>
+  <circle cx="903" cy="61" r="15" fill="none" stroke="#67B8FF" stroke-width="1.5" opacity=".32"><animate attributeName="r" values="15;28;15" dur="12s" begin="9.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".36;0;.36" dur="12s" begin="9.6s" repeatCount="indefinite"/></circle>
+  <text x="903" y="89" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" fill="#D5F1FE">05</text>
+  <text x="923" y="80" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing=".6" fill="#F2F7FF">REFINE</text>
+  <text x="923" y="107" font-family="Arial,Helvetica,sans-serif" font-size="12.5" fill="#B3C6E2">Test and improve</text>
+  
+</g>
+</svg>
