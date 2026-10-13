@@ -32,7 +32,6 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 | Project | The problem I'm tackling |
 | :-- | :-- |
 | **[MetrologyBase](https://github.com/timwong930/metrologybase)** | Making calibration and metrology easier to navigate with practical guides, calculators, and vendor-neutral research. |
-| **[Chrome Macro Recorder](https://github.com/timwong930/chrome-macro-recorder)** | Reducing repetitive browser work by recording and replaying multi-page workflows. |
 | **[Budgeting App](https://github.com/timwong930/Budgeting-App)** | Bringing budgeting, portfolio tracking, watchlists, and financial information into one iOS experience. |
 
 ### What I'm exploring
