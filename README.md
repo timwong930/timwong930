@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner-static.svg" />
-    <img src="./assets/profile-banner.svg" alt="Tim Wong — testing the limits of AI, turning complexity into clarity" width="100%" />
+    <img src="./assets/profile-banner.svg" alt="Tim Wong: testing the limits of AI, turning complexity into clarity" width="100%" />
   </picture>
 </p>
 
@@ -12,7 +12,7 @@
 
 ## Hey, I'm Tim.
 
-I like to **test the limits of AI** — not just what it can generate, but what it can *actually accomplish*. I'm drawn to messy problems, scattered information, and repetitive work that shouldn't have to stay complicated.
+I like to **test the limits of AI**. I'm interested in what it can *actually accomplish*, not just what it can generate. I'm drawn to messy problems, scattered information, and repetitive work that shouldn't have to stay complicated.
 
 I like to **turn data into clarity**, **turn friction into useful solutions**, and **turn repeatable tasks into automations**. Sometimes that's a small tool that saves a few clicks. Sometimes it's a bigger system that connects the dots.
 
@@ -39,7 +39,7 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 `Local-first AI` · `Multi-agent workflows` · `Useful automations` · `Data-driven tools` · `Thoughtful product design`
 
-I enjoy experimenting with tools like **Python, Swift/SwiftUI, JavaScript, GitHub, and local LLMs** — choosing what fits the problem instead of chasing a stack for its own sake.
+I enjoy experimenting with tools like **Python, Swift/SwiftUI, JavaScript, GitHub, and local LLMs**, choosing what fits the problem instead of chasing a stack for its own sake.
 
 ---
 
