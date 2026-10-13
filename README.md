@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/timwong930?tab=repositories"><img src="https://img.shields.io/badge/Explore-my_projects-65B7FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="https://github.com/timwong930/metrologybase"><img src="https://img.shields.io/badge/Featured-MetrologyBase-65D9BD?style=for-the-badge" alt="Explore MetrologyBase" /></a>
+  <a href="https://github.com/timwong930?tab=repositories"><strong>Browse projects</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/timwong930/metrologybase"><strong>Explore MetrologyBase</strong></a>
 </p>
 
 ## Hey, I'm Tim.
