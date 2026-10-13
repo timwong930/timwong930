@@ -2,16 +2,20 @@
 name: Tim Wong GitHub Profile
 description: Warm editorial portfolio system for a curious maker
 colors:
-  canvas: "#F3F0E8"
-  secondary-surface: "#E9E6DC"
-  ink: "#242922"
-  body: "#4D594F"
-  olive: "#56684D"
-  rust: "#95543D"
-  rule: "#B4B8AC"
-  inset-rule: "#D8D5C9"
-  paper-white: "#F7F4EC"
-  footer: "#2F382F"
+  light-canvas: "#ffffff"
+  light-muted-surface: "#f6f8fa"
+  light-ink: "#24292f"
+  light-body: "#59636e"
+  light-rule: "#d1d9e0"
+  light-olive: "#4d6548"
+  light-rust: "#895640"
+  dark-canvas: "#0d1117"
+  dark-muted-surface: "#161b22"
+  dark-ink: "#e6edf3"
+  dark-body: "#a1aab4"
+  dark-rule: "#30363d"
+  dark-olive: "#b8ceb0"
+  dark-rust: "#d9a389"
 typography:
   display:
     fontFamily: "Georgia, Times New Roman, serif"
@@ -32,7 +36,7 @@ This GitHub profile should feel like a maker's field notebook: curious, warm, co
 
 ## Colors
 
-Use mostly warm paper tones and ink. Olive carries secondary emphasis; muted rust is a small indicator, never a major surface. Do not introduce cyan, violet, neon glows, glowing nodes, rainbow gradients, or dashboard styling. Use the color tokens in the frontmatter consistently.
+Blend into GitHub's light and dark defaults, using white and near-black canvases. Olive is a quiet accent and rust is reserved for small labels. Avoid colored slabs, bright gradients, glowing nodes, and decorative dashboard cards. Explicit light and dark SVG assets ensure contrast and theme parity.
 
 ## Typography
 
@@ -40,7 +44,7 @@ Use Georgia for authored headlines and section graphics, with a sturdy Arial/Hel
 
 ## Layout
 
-The GitHub README uses native Markdown for legible body text and project links. The four SVG systems are the hero banner, problem-solving sequence, current interests, and closing motto. Desktop images are 1080 to 1200 units wide; mobile-specific variants switch at 640px through HTML picture sources.
+The GitHub README uses native Markdown for legible body text and project links. The four SVG systems are the hero banner, problem-solving sequence, current interests, and closing motto. Desktop images are 1080 to 1200 units wide; mobile-specific variants switch at 640px through HTML picture sources, with parallel sources for light/dark schemes.
 
 ## Elevation & Depth
 
@@ -52,7 +56,7 @@ Minimal squared or slightly softened edges, fine dividers, and the occasional an
 
 ## Components
 
-SVG pairs have animated and static versions. Animated assets use minimal native SVG motion: a moving indicator that implies progress. Static variants are selected for reduced-motion preferences. Meaningful copy is always visible without animation, and key information also appears in README text.
+Each of four visuals ships in desktop/mobile and light/dark variants with distinct versioned filenames. The exploration panel is strictly static, with no motion markup or moving bars. The banner and process only use stationary opacity animation, disabled by the SVG's prefers-reduced-motion CSS. The surrounding canvas matches GitHub's common default light/dark backgrounds. Meaningful copy stays readable without animation.
 
 ## Do's and Don'ts
 

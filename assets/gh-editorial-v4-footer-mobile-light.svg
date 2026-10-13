@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 122" role="img" aria-labelledby="title desc">
+<title id="title">Build small. Learn fast. Make it useful.</title>
+<desc id="desc">A compact closing message.</desc>
+
+<rect width="360" height="122" fill="#ffffff" />
+<rect x="0" y="8" width="360" height="105" rx="3" fill="#f6f8fa"/>
+ <text x="180" y="44" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700"  text-anchor="middle" fill="#24292f">Build small. Learn fast.</text>
+ <text x="180" y="72" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700"  text-anchor="middle" fill="#24292f">Make it useful.</text>
+ <text x="180" y="98" font-family="Arial,Helvetica,sans-serif" font-size="9.7" font-weight="700" letter-spacing="0.9" text-anchor="middle" fill="#59636e">ALWAYS CURIOUS. ALWAYS IMPROVING.</text>
+</svg>

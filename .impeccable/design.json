@@ -3,16 +3,26 @@
   "surface": "github-profile-readme",
   "mode": "experience",
   "palette": {
-    "canvas": "#F3F0E8",
-    "secondarySurface": "#E9E6DC",
-    "ink": "#242922",
-    "body": "#4D594F",
-    "olive": "#56684D",
-    "rust": "#95543D",
-    "rule": "#B4B8AC",
-    "insetRule": "#D8D5C9",
-    "paperWhite": "#F7F4EC",
-    "footer": "#2F382F"
+    "light": {
+      "bg": "#ffffff",
+      "ink": "#24292f",
+      "muted": "#59636e",
+      "rule": "#d1d9e0",
+      "accent": "#4d6548",
+      "rust": "#895640",
+      "surface": "#f6f8fa",
+      "sub": "#7b8378"
+    },
+    "dark": {
+      "bg": "#0d1117",
+      "ink": "#e6edf3",
+      "muted": "#a1aab4",
+      "rule": "#30363d",
+      "accent": "#b8ceb0",
+      "rust": "#d9a389",
+      "surface": "#161b22",
+      "sub": "#788879"
+    }
   },
   "typography": {
     "display": "Georgia, Times New Roman, serif",
@@ -22,9 +32,20 @@
     "panel": "5px"
   },
   "motion": {
-    "implementation": "Native SVG SMIL",
-    "meaning": "progress and iteration",
-    "reducedMotion": "static image variants"
+    "implementation": "CSS opacity animation within SVG",
+    "meaning": "stationary progress emphasis only in banner and process",
+    "reducedMotion": "CSS media query turns animations off",
+    "excluded": [
+      "focus",
+      "footer"
+    ],
+    "noTranslation": true
   },
-  "mobileBreakpoint": "640px"
+  "mobileBreakpoint": "640px",
+  "theme": {
+    "selection": "README picture prefers-color-scheme sources",
+    "lightBackground": "#ffffff",
+    "darkBackground": "#0d1117",
+    "cacheStrategy": "New versioned asset paths"
+  }
 }
