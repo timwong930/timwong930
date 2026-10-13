@@ -16,5 +16,7 @@
  <text x="744" y="105" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="29.5" fill="#242922">Data into clarity</text>
  <text x="744" y="135" font-family="Arial,Helvetica,sans-serif" font-size="14.4" fill="#4D594F">Making information more useful</text>
  <line x1="744" y1="156" x2="1021" y2="156" stroke="#B4B8AC" stroke-width="1.2"/>
- <rect x="38" y="151.7" width="54" height="4.3" fill="#56684D"><animate attributeName="x" values="38;998;38" dur="17s" keyTimes="0;.63;1" calcMode="spline" keySplines=".22 .1 .25 1;.22 .1 .25 1" repeatCount="indefinite"/></rect>
+ <rect x="38" y="154" width="31" height="2" rx="1" fill="#56684D" opacity=".45"><animate attributeName="opacity" values=".28;.78;.28" dur="9s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="391" y="154" width="31" height="2" rx="1" fill="#56684D" opacity=".45"><animate attributeName="opacity" values=".28;.78;.28" dur="9s" begin="3s" repeatCount="indefinite"/></rect>
+<rect x="744" y="154" width="31" height="2" rx="1" fill="#56684D" opacity=".45"><animate attributeName="opacity" values=".28;.78;.28" dur="9s" begin="6s" repeatCount="indefinite"/></rect>
 </svg>
