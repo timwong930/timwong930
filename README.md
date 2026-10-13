@@ -33,6 +33,7 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 | :-- | :-- |
 | **[MetrologyBase](https://github.com/timwong930/metrologybase)** | Making calibration and metrology easier to navigate with practical guides, calculators, and vendor-neutral research. |
 | **[Budgeting App](https://github.com/timwong930/Budgeting-App)** | Bringing budgeting, portfolio tracking, watchlists, and financial information into one iOS experience. |
+| **RollSort** *(private development)* | Building a privacy-first iOS photo organizer to make reviewing, sorting, and cleaning up large photo libraries simpler, without uploading photos. |
 
 ### What I'm exploring
 
