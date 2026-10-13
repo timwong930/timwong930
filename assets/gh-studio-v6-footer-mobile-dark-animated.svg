@@ -7,7 +7,7 @@
 <text x="180" y="80" fill="#e6edf3" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" text-anchor="middle">Make it useful.</text>
 <path d="M43 110L317 110" fill="none" stroke="#30363d" stroke-width="1" opacity="1"/>
 <path d="M43 110H317" fill="none" stroke="#b8ceb0" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M43 110H317" fill="none" stroke="#b8ceb0" stroke-width="3" stroke-dasharray="278" stroke-dashoffset="278" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M43 110H317" fill="none" stroke="#b8ceb0" stroke-width="3" stroke-dasharray="278" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 <animate attributeName="stroke-dashoffset" values="278;278;0;0;278" keyTimes="0;.08;.29;.82;1" dur="16s" begin="0s" repeatCount="indefinite"/>
 </path>
 
