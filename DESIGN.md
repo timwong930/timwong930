@@ -56,7 +56,7 @@ Minimal squared or slightly softened edges, fine dividers, and the occasional an
 
 ## Components
 
-Each of four visuals ships in desktop/mobile and light/dark variants with distinct versioned filenames. The exploration panel is strictly static, with no motion markup or moving bars. The banner and process only use stationary opacity animation, disabled by the SVG's prefers-reduced-motion CSS. The surrounding canvas matches GitHub's common default light/dark backgrounds. Meaningful copy stays readable without animation.
+Each visual ships in desktop/mobile and light/dark variants. The exploration panel stays entirely static. The header, process, and footer use native SVG SMIL for visible motion, with separately rendered static variants selected via prefers-reduced-motion picture sources. Animated components follow existing rules, dots, or the process sequence, never floating freely across the exploration panel. Maintain GitHub-aligned backgrounds and readable content even when motion cannot play.
 
 ## Do's and Don'ts
 

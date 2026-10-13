@@ -32,20 +32,23 @@
     "panel": "5px"
   },
   "motion": {
-    "implementation": "CSS opacity animation within SVG",
-    "meaning": "stationary progress emphasis only in banner and process",
-    "reducedMotion": "CSS media query turns animations off",
-    "excluded": [
-      "focus",
+    "implementation": "Native SVG SMIL animations in external image files",
+    "sectionsAnimated": [
+      "banner",
+      "process",
       "footer"
     ],
-    "noTranslation": true
+    "sectionsStatic": [
+      "focus"
+    ],
+    "staticFallback": "Separate -static.svg variants via prefers-reduced-motion picture sources",
+    "noUnanchoredFocusMotion": true
   },
   "mobileBreakpoint": "640px",
   "theme": {
     "selection": "README picture prefers-color-scheme sources",
     "lightBackground": "#ffffff",
     "darkBackground": "#0d1117",
-    "cacheStrategy": "New versioned asset paths"
+    "cacheStrategy": "Fresh v5 file paths, animated and static, while keeping v4 focus static"
   }
 }

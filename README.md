@@ -1,9 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-banner-mobile-dark.svg" />
-    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v4-banner-mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-banner-desktop-dark.svg" />
-    <img src="./assets/gh-editorial-v4-banner-desktop-light.svg" alt="Tim Wong: testing the limits of AI and turning complexity into clarity" width="100%" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-banner-mobile-dark-static.svg" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-banner-mobile-light-static.svg" />
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-banner-desktop-dark-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-banner-desktop-light-static.svg" />
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-banner-mobile-dark-animated.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v5-banner-mobile-light-animated.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-banner-desktop-dark-animated.svg" />
+    <img src="./assets/gh-editorial-v5-banner-desktop-light-animated.svg" alt="Tim Wong: testing the limits of AI and turning complexity into clarity" width="100%" />
   </picture>
 </p>
 
@@ -25,10 +29,14 @@ I like to **turn data into clarity**, **turn friction into useful solutions**, a
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-process-mobile-dark.svg" />
-    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v4-process-mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-process-desktop-dark.svg" />
-    <img src="./assets/gh-editorial-v4-process-desktop-light.svg" alt="Five practical steps: notice, understand, build, automate, and refine" width="100%" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-process-mobile-dark-static.svg" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-process-mobile-light-static.svg" />
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-process-desktop-dark-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-process-desktop-light-static.svg" />
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-process-mobile-dark-animated.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v5-process-mobile-light-animated.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-process-desktop-dark-animated.svg" />
+    <img src="./assets/gh-editorial-v5-process-desktop-light-animated.svg" alt="Five practical steps: notice, understand, build, automate, and refine" width="100%" />
   </picture>
 </p>
 
@@ -63,9 +71,13 @@ I enjoy experimenting with tools like **Python, Swift/SwiftUI, JavaScript, GitHu
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-footer-mobile-dark.svg" />
-    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v4-footer-mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v4-footer-desktop-dark.svg" />
-    <img src="./assets/gh-editorial-v4-footer-desktop-light.svg" alt="Build small. Learn fast. Make it useful." width="100%" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-footer-mobile-dark-static.svg" />
+    <source media="(max-width: 640px) and (prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-footer-mobile-light-static.svg" />
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-footer-desktop-dark-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/gh-editorial-v5-footer-desktop-light-static.svg" />
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-footer-mobile-dark-animated.svg" />
+    <source media="(max-width: 640px)" srcset="./assets/gh-editorial-v5-footer-mobile-light-animated.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gh-editorial-v5-footer-desktop-dark-animated.svg" />
+    <img src="./assets/gh-editorial-v5-footer-desktop-light-animated.svg" alt="Build small. Learn fast. Make it useful." width="100%" />
   </picture>
 </p>
