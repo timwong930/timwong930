@@ -14,23 +14,23 @@
 <text x="875" y="93" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="23" font-weight="700" >01   A QUESTION</text><text x="876" y="119" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" >Understand the problem</text>
 <path d="M876 128L1157 128" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M876 128H1157" fill="none" stroke="#4d6548" stroke-width="2.7" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M876 128H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="282" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M876 128H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <text x="875" y="170" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="23" font-weight="700" >02   AN EXPERIMENT</text><text x="876" y="196" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" >Try an idea</text>
 <path d="M876 205L1157 205" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M876 205H1157" fill="none" stroke="#4d6548" stroke-width="2.7" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M876 205H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="282" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M876 205H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <text x="875" y="247" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="23" font-weight="700" >03   A BETTER WAY</text><text x="876" y="273" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" >Make something useful</text>
 <path d="M876 282L1157 282" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M876 282H1157" fill="none" stroke="#4d6548" stroke-width="2.7" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M876 282H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="282" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M876 282H1157" fill="none" stroke="#4d6548" stroke-width="2.7" stroke-dasharray="282" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <path d="M42 218 H635" fill="none" stroke="#895640" stroke-width="3.2" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M42 218 H635" fill="none" stroke="#895640" stroke-width="3.2" stroke-dasharray="594" stroke-dashoffset="594" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M42 218 H635" fill="none" stroke="#895640" stroke-width="3.2" stroke-dasharray="594" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 

@@ -14,21 +14,21 @@
 <text x="24" y="345" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" >02   EXPERIMENT</text>
 <text x="24" y="393" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="700" >03   MAKE IT USEFUL</text><path d="M24 307L335 307" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M24 307H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24 307H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M24 307H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <path d="M24 355L335 355" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M24 355H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24 355H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M24 355H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <path d="M24 403L335 403" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M24 403H335" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24 403H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="312" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M24 403H335" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="312" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 <path d="M24 197H244" fill="none" stroke="#895640" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M24 197H244" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="222" stroke-dashoffset="222" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M24 197H244" fill="none" stroke="#895640" stroke-width="3" stroke-dasharray="222" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 </svg>

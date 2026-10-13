@@ -7,7 +7,7 @@
 <text x="180" y="80" fill="#24292f" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" text-anchor="middle">Make it useful.</text>
 <path d="M43 110L317 110" fill="none" stroke="#d1d9e0" stroke-width="1" opacity="1"/>
 <path d="M43 110H317" fill="none" stroke="#4d6548" stroke-width="3" opacity=".16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M43 110H317" fill="none" stroke="#4d6548" stroke-width="3" stroke-dasharray="278" stroke-dashoffset="278" stroke-linecap="round" stroke-linejoin="round" >
+<path d="M43 110H317" fill="none" stroke="#4d6548" stroke-width="3" stroke-dasharray="278" stroke-dashoffset="0" stroke-linecap="round" stroke-linejoin="round" >
 
 </path>
 
